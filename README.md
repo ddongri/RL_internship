@@ -14,5 +14,5 @@ CustomTimer : sync 맞추는 용도(?)<br/>
 참고한 코드<br/><br/>
 visualize_multiple_sensors.py<br/>
 manual_control<br/>
-<br/>
+<br/><br/>
 pygame 이용해 이미지들 시각화도 가능합니다. -> visualize_multiple_sensors.py
