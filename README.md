@@ -1,5 +1,3 @@
-# RL_internship
-
 # vehicle_control_and_image_yonsei.py
 
 구현한 함수<br/><br/>
@@ -19,7 +17,7 @@ manual_control<br/>
 pygame 이용해 이미지들 시각화도 가능합니다. -> visualize_multiple_sensors.py
 <br/><br/>
 
-visualize_multiple_sensors_yonsei.py
+# visualize_multiple_sensors_yonsei.py
 
 pygame 이용해 rgb 카메라 4개, depth 카메라 4개를 시각화 합니다.<br/>
 visualize_multiple_sensors.py 예제 참고했습니다.<br/>
